@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+
+
+body{
+  font-family: 'Aclonica', sans-serif;
+  font-size: 22px;
+  background-image: url("../public/background.jpg");
+  background-position: center center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
